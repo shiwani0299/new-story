@@ -1,0 +1,2 @@
+"Setting the repository to be publicly visible."
+"Making the repository open to everyone."

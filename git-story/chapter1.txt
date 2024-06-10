@@ -1,0 +1,4 @@
+Certainly! Here are some phrases related to changing the visibility of a Git repository:
+
+"Changing repository visibility from private to public."
+"Making the repository accessible to the public."
